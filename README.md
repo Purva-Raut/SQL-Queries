@@ -16,3 +16,13 @@ DESCRIPTION
 Consider an institution that wants to store the students’ details and their marks records to track their progress. The database would contain the students’ information, marks of the students with the rank that can be viewed, updated, and evaluated for the performance evaluation.
 
 Queries-DROP TABLE, CREATE TABLE, INSERT INTO, WHERE, lower, BETWEEN, ORDER BY, LIKE
+
+##3.Patient_Diagnosis_Report##
+
+DESCRIPTION
+
+The data analyst of a hospital wants to store the patient diagnosis reports with the details of the doctors and the patients for good medical practice and continuity of care.
+
+ Queries- COUNT DISTINCT, ORDER BY LIMIT, UPPER, MIN-MAX, LENGTH, CASE-WHEN-THEN-END, CONCAT, LOG, EXTRACT(YEAR FROM [DATE]), GROUP BY-HAVING
+ 
+ 

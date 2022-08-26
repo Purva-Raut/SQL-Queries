@@ -25,4 +25,11 @@ The data analyst of a hospital wants to store the patient diagnosis reports with
 
  Queries- COUNT DISTINCT, ORDER BY LIMIT, UPPER, MIN-MAX, LENGTH, CASE-WHEN-THEN-END, CONCAT, LOG, EXTRACT(YEAR FROM [DATE]), GROUP BY-HAVING
  
+ ##4.Employee_Data_Analysis##
+ 
+ DESCRIPTION
+
+An HR of the company wants to extract, update, and delete employee details to maintain their records.
+ 
+Queries- SUBQUERIES with WHERE, >,ORDER BY, AVG, LOWER
  

@@ -32,4 +32,11 @@ The data analyst of a hospital wants to store the patient diagnosis reports with
 An HR of the company wants to extract, update, and delete employee details to maintain their records.
  
 Queries- SUBQUERIES with WHERE, >,ORDER BY, AVG, LOWER
- 
+
+##5.Air_Cargo_Analysis
+
+DESCRIPTION
+
+Air Cargo is an aviation company that provides air transportation services for passengers and freight. Air Cargo uses its aircraft to provide different services with the help of partnerships or alliances with other airlines. The company wants to prepare reports on regular passengers, busiest routes, ticket sales details, and other scenarios to improve the ease of travel and booking for customers.
+
+Queries-LEFT JOIN, WHERE, BETWEEN, COUNT, SUM, GROUP BY, INNER JOIN, ORDER BY, DISTINCT, GROUP BY-HAVING, CASE-WHEN-THEN-END, MAX, WINDOWS FUNCTION-MAX-PARTITION BY, GROUP BY-ROLLUP-COALESCE 

@@ -35,6 +35,8 @@ An HR of the company wants to extract, update, and delete employee details to ma
  
 Queries- SUBQUERIES with WHERE, >,ORDER BY, AVG, LOWER
 
+Use CSV- employee
+
 ##5.Air_Cargo_Analysis##
 
 DESCRIPTION

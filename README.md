@@ -33,10 +33,18 @@ An HR of the company wants to extract, update, and delete employee details to ma
  
 Queries- SUBQUERIES with WHERE, >,ORDER BY, AVG, LOWER
 
-##5.Air_Cargo_Analysis
+##5.Air_Cargo_Analysis##
 
 DESCRIPTION
 
 Air Cargo is an aviation company that provides air transportation services for passengers and freight. Air Cargo uses its aircraft to provide different services with the help of partnerships or alliances with other airlines. The company wants to prepare reports on regular passengers, busiest routes, ticket sales details, and other scenarios to improve the ease of travel and booking for customers.
 
 Queries-LEFT JOIN, WHERE, BETWEEN, COUNT, SUM, GROUP BY, INNER JOIN, ORDER BY, DISTINCT, GROUP BY-HAVING, CASE-WHEN-THEN-END, MAX, WINDOWS FUNCTION-MAX-PARTITION BY, GROUP BY-ROLLUP-COALESCE 
+
+##6.ScienceQtech_Employee_Performance_Mapping.##
+
+DESCRIPTION
+
+ScienceQtech is a startup that works in the Data Science field. ScienceQtech has worked on fraud detection, market basket, self-driving cars, supply chain, algorithmic early detection of lung cancer, customer sentiment, and the drug discovery field. With the annual appraisal cycle around the corner, the HR department has asked you (Junior Database Administrator) to generate reports on employee details, their performance, and on the project that the employees have undertaken, to analyze the employee database and extract specific data based on different requirements.
+
+Queries- DISTINCT, CASE-WHEN-THEN-END, ORDER BY, CONCAT, RIGHT JOIN, GROUP BY, UNION, LOWER, IN, WINDOWS FUNCTION (MAX, MIN, RANK, DENSE_RANK), CREATE VIEW, SUB-QUERY, COALESCE, CEIL, GROUP BY ROLL UP

@@ -9,6 +9,8 @@ customer behavior and product stock details daily.
 
 Queries -CREATE TABLE,ALTER TABLE,WHERE clause,LIKE operator,GROUP BY+ HAVING clause, ADD columns, DROP columns,DISTINCT,ORDER BY.
 
+Use CSVs- customer_datasets, product_datasets, sales_datasets
+
 ##2.Project_School_Ranking_Analysis##
 
 DESCRIPTION

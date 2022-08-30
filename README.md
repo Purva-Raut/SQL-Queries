@@ -45,6 +45,8 @@ Air Cargo is an aviation company that provides air transportation services for p
 
 Queries-LEFT JOIN, WHERE, BETWEEN, COUNT, SUM, GROUP BY, INNER JOIN, ORDER BY, DISTINCT, GROUP BY-HAVING, CASE-WHEN-THEN-END, MAX, WINDOWS FUNCTION-MAX-PARTITION BY, GROUP BY-ROLLUP-COALESCE 
 
+Use CSVs- employee,department
+
 ##6.ScienceQtech_Employee_Performance_Mapping.##
 
 DESCRIPTION
